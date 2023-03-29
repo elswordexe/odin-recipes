@@ -1,2 +1,2 @@
 # odin-recipes
-tajribat course
+this is my first project assignement on odin project 
